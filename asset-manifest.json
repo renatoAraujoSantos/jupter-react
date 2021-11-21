@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jupter-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jupter-react/static/js/main.66bf6442.chunk.js",
+    "main.js.map": "/jupter-react/static/js/main.66bf6442.chunk.js.map",
+    "runtime-main.js": "/jupter-react/static/js/runtime-main.a2ccf30b.js",
+    "runtime-main.js.map": "/jupter-react/static/js/runtime-main.a2ccf30b.js.map",
+    "static/js/2.f95d181b.chunk.js": "/jupter-react/static/js/2.f95d181b.chunk.js",
+    "static/js/2.f95d181b.chunk.js.map": "/jupter-react/static/js/2.f95d181b.chunk.js.map",
+    "static/js/3.aaba6ed9.chunk.js": "/jupter-react/static/js/3.aaba6ed9.chunk.js",
+    "static/js/3.aaba6ed9.chunk.js.map": "/jupter-react/static/js/3.aaba6ed9.chunk.js.map",
+    "index.html": "/jupter-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jupter-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f95d181b.chunk.js.LICENSE.txt": "/jupter-react/static/js/2.f95d181b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jupter-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2ccf30b.js",
+    "static/js/2.f95d181b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.66bf6442.chunk.js"
+  ]
+}
