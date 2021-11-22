@@ -52,15 +52,13 @@ export default function ProfilePage() {
                     <Container className="align-items-center">
                         <Row>
                             <Col lg="6" md="6">
-                                <h1 className="profile-title text-left">Mike Scheinder</h1>
+                                <h1 className="profile-title text-left">Titulo</h1>
                                 <h5 className="text-on-back">01</h5>
                                 <p className="profile-description">
-                                    Offices parties lasting outward nothing age few resolve.
-                                    Impression to discretion understood to we interested he
-                                    excellence. Him remarkably use projection collecting. Going
-                                    about eat forty world has round miles.
+                                    descricao
                                 </p>
                             </Col>
+
                             <Col className="ml-auto mr-auto" lg="4" md="6">
                                 <Card className="card-coin card-plain">
                                     <CardHeader>
@@ -73,6 +71,7 @@ export default function ProfilePage() {
                                     </CardHeader>
                                 </Card>
                             </Col>
+                            
                         </Row>
                     </Container>
                 </div>

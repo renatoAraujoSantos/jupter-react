@@ -16,12 +16,13 @@ export default function PageHeader() {
             <div className="squares square5" />
             <div className="squares square6" />
             <div className="squares square7" />
+
             <Container>
                 <div className="content-center brand">
                     <h1 className="h2-seo">• Direto do Produtor</h1>
                     
                     <h3 className="d-none d-sm-block">
-                        Cadastro finazado com sucesso
+                        Cadastro Realizado Com Sucesso
                     </h3>
                     <Button color="info" onClick={ closeTab }>Finalizar</Button>
                 </div>
