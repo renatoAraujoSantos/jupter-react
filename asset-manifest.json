@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jupter-react/static/css/main.84bca2b0.chunk.css",
-    "main.js": "/jupter-react/static/js/main.ff4f7a92.chunk.js",
-    "main.js.map": "/jupter-react/static/js/main.ff4f7a92.chunk.js.map",
+    "main.js": "/jupter-react/static/js/main.343b9b33.chunk.js",
+    "main.js.map": "/jupter-react/static/js/main.343b9b33.chunk.js.map",
     "runtime-main.js": "/jupter-react/static/js/runtime-main.9d48c86e.js",
     "runtime-main.js.map": "/jupter-react/static/js/runtime-main.9d48c86e.js.map",
     "static/js/2.3fd79f83.chunk.js": "/jupter-react/static/js/2.3fd79f83.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9d48c86e.js",
     "static/js/2.3fd79f83.chunk.js",
     "static/css/main.84bca2b0.chunk.css",
-    "static/js/main.ff4f7a92.chunk.js"
+    "static/js/main.343b9b33.chunk.js"
   ]
 }
