@@ -7,6 +7,7 @@ export default function PageHeader() {
         window.close();
     }
 
+    // ESTOU USANDO APOS FINALIZAR O CADASTRO NO STRIPE
     return (
         <div className="page-header header-filter">
             <div className="squares square1" />
